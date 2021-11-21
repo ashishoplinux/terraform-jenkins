@@ -1,11 +1,11 @@
 variable "region" {
 
-    type = sting
+    type = string
     default = "us-east-2"  
 }
 
 variable "instance_type" {
-    type = sting
+    type = string
      default = "t2.micro"
     
 }
